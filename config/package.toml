@@ -2,11 +2,6 @@
 deps = []
 
 [[flavor.deps]]
-use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "9cd2ac4"
-hash = "63af69ecd0e09f3a7e252828d73abe68"
-
-[[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-frappe"
 rev = "9cd2ac4"
 hash = "b5e0a30e0441f32a7c4508a2e6490ce"
@@ -25,11 +20,6 @@ hash = "d0bfdbc8221a2acef9e7cf28e8a6157e"
 use = "kmlupreti/ayu-dark"
 rev = "648a178"
 hash = "2ebdd4e3e00d6612bfa64dd7ca3dac4f"
-
-[[flavor.deps]]
-use = "bennyyip/gruvbox-dark"
-rev = "e5e1aef"
-hash = "79d0bda6b5ed25c572860fbcca6a9aad"
 
 [[flavor.deps]]
 use = "Chromium-3-Oxide/everforest-medium"
