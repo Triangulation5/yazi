@@ -51,7 +51,7 @@ border_style = { fg = "#282726" } # ui
 active = { fg = "#CECDC3", bg = "#403E3C", bold = true } # tx, ui-3
 inactive = { fg = "#878580", bg = "#282726" } # tx-2, ui
 sep_inner = { open = "", close = "" }
-sep_outer = { open = "", close = "" }
+sep_outer = { open = "", close = "" }
 
 [mode]
 # Normal mode
@@ -67,9 +67,9 @@ unset_main = { fg = "#100F0F", bg = "#3AA99F", bold = true } # bg, cy
 unset_alt = { fg = "#3AA99F", bg = "#122F2C" } # cy, cy-900
 
 [status]
-overall = { fg = "#CECDC3" } # tx
-sep_left = { open = "", close = ""  }
-sep_right = { open = "", close = "" }
+overall = { fg = "#CECDC3" } # t
+sep_left  = { open = "", close = "" }
+sep_right = { open = "", close = "" }
 
 # Permissions
 perm_type = { fg = "#4385BE" } # bl
